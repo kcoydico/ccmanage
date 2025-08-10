@@ -1,3 +1,0 @@
-# TDD
-
-This plugin is for...

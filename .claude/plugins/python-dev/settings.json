@@ -1,0 +1,7 @@
+{
+  "hooks": {
+    "on_new_file": {
+      "*.py": "black ${file}"
+    }
+  }
+}
