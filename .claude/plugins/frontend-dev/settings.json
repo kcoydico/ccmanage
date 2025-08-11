@@ -1,0 +1,7 @@
+{
+  "hooks": {
+    "on_new_file": {
+      "*.{js,jsx,ts,tsx}": "prettier --write ${file}"
+    }
+  }
+}
